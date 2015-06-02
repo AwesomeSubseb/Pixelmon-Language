@@ -1,7 +1,8 @@
 ﻿/*
 *   @Author AnDwHaT5
+*   Last edited: 2-June-2015 by AwesomeSubseb
 *
-*   Hello, and thanks for looking at the lang! If you are here to
+*   Hello, and thanks for looking in the lang! If you are here to
 *   translate it there are little tidbits above each section to
 *   reference, but its is VERY straight forward. To translate the mod
 *   all you need to do is replace the text after the = to what you
@@ -11,9 +12,9 @@
 
 //Items
 /*
-*   item stands for it is an item. Just like in item.PC.name.
-*   The middle one stands for its name as defined by code.
-*   The final part is just saying it is the name of the item.
+*   Item is gewoon wat de naam al zegt een Item dus. Net als item.PC.name.
+*   De middelste staat voor de naam gedefineerd door een code.
+*   Het laatste gedeelte zegt gewoon de naam van het item.
 */
 item.PC.name=PC
 item.Anvil.name=Aambeeld
@@ -57,9 +58,9 @@ item.Aluminium Plate.name=Aluminium Plaat
 item.Old Rod.name=Oude Hengel
 item.Good Rod.name=Goede Hengel
 item.Super Rod.name=Super Hengel
-item.Trade Monitor.name=Trade Monitor
-item.Trade Holder Right.name=Trade Houder Rechts
-item.Trade Holder Left.name=Trade Houder Links
+item.Trade Monitor.name=Ruil Monitor
+item.Trade Holder Right.name=Ruil Houder Rechts
+item.Trade Holder Left.name=Ruil Houder Links
 item.Trade Panel.name=Trade Paneel
 item.mysteryDungeonMap.name=Mystery Dungeon Kaart
 item.Uno Orb.name=Eerste Orb
@@ -179,8 +180,8 @@ item.Burn Heal.name=Burn Heal
 item.Ice Heal.name=Ice Heal
 item.Full Heal.name=Full Heal
 item.spawnGrotto.name=Grotto Spawner
-item.Mossy Rock.name=Mossige Steen
-item.Icy Rock.name=Ijzige Steen
+item.Mossy Rock.name=Mossige Rots
+item.Icy Rock.name=Ijzige Rots
 item.Black Apricorn.name=Zwarte Apricorn
 item.White Apricorn.name=Witte Apricorn
 item.Pink Apricorn.name=Roze Apricorn
@@ -197,34 +198,34 @@ item.Cooked Pink Apricorn.name=Gekookte Roze Apricorn
 item.Cooked Red Apricorn.name=Gekookte Rode Apricorn
 item.HelixFossil.name=Helix Fossiel
 item.DomeFossil.name=Dome Fossiel
-item.OldAmber.name=Old Amber
-item.RootFossil.name=Root Fossiel
-item.ClawFossil.name=Claw Fossiel
-item.SkullFossil.name=Skull Fossiel
-item.ArmorFossil.name=Armor Fossiel
-item.CoverFossil.name=Cover Fossiel
-item.PlumeFossil.name=Plume Fossiel
+item.OldAmber.name=Oud Amber
+item.RootFossil.name=Wortel Fossiel
+item.ClawFossil.name=Klauw Fossiel
+item.SkullFossil.name=Schedel Fossiel
+item.ArmorFossil.name=Pantser Fossiel
+item.CoverFossil.name=Bedekt Fossiel
+item.PlumeFossil.name=Pluim Fossiel
 item.coveredFossil0.name=Bedekt Fossiel
 item.coveredFossil1.name=Bedekt Fossiel
-item.coveredFossil2.name=Bedekt Fossiel
+item.coveredFossil2.name=AwesomeSubseb Fossiel
 item.coveredFossil3.name=Bedekt Fossiel
 item.coveredFossil4.name=Bedekt Fossiel
 item.coveredFossil5.name=Bedekt Fossiel
 item.coveredFossil6.name=Bedekt Fossiel
 item.coveredFossil7.name=Bedekt Fossiel
 item.coveredFossil8.name=Bedekt Fossiel
-item.Sun Stone.name=Sun Stone
-item.Fire Stone.name=Fire Stone
-item.Water Stone.name=Water Stone
-item.Moon Stone.name=Moon Stone
-item.Thunder Stone.name=Thunder Stone
-item.Leaf Stone.name=Leaf Stone
-item.Thunder Stone Shard.name=Thunder Stone Scherf
-item.Leaf Stone Shard.name=Leaf Stone Scherf
-item.Water Stone Shard.name=Water Stone Scherf
-item.Fire Stone Shard.name=Fire Stone Scherf
-item.Sun Stone Shard.name=Sun Stone Scherf
-item.Ever Stone.name=Ever Stone
+item.Sun Stone.name=Zon Steen
+item.Fire Stone.name=Vuur Steen
+item.Water Stone.name=Water Steen
+item.Moon Stone.name=Maan Steen
+item.Thunder Stone.name=Bliksem Steen
+item.Leaf Stone.name=Blad Steen
+item.Thunder Stone Shard.name=Bliksem Steen Scherf
+item.Leaf Stone Shard.name=Blad Steen Scherf
+item.Water Stone Shard.name=Water Steen Scherf
+item.Fire Stone Shard.name=Vuur Steen Scherf
+item.Sun Stone Shard.name=Zon Steen Scherf
+item.Ever Stone.name=Ever Steen
 item.Lucky Egg.name=Lucky Egg
 item.Exp. Share.name=Exp. Share
 item.Choice Band.name=Choice Band
@@ -388,17 +389,17 @@ attack.take down.description=Een roekeloze, vol gewicht aanval om op het doelwit
 attack.razor leaf.name=Razor Leaf
 attack.razor leaf.description=Scherp gerande blaadjes worden op de tegenstander geschoten om hem te snijden. Hoge kans op critical hit.
 attack.sweet scent.name=Sweet Scent
-attack.sweet scent.description=Een aangenaam arome dat het doelwit afleid, zodat het makkelijker word om te raken.
+attack.sweet scent.description=Een aangenaam aroma dat het doelwit afleid, zodat het makkelijker word om te raken.
 attack.growth.name=Growth
-attack.growth.description=Het lichaam van de gebruiker word gedwongen om opeens te groeien. Verhoogt Sp. Atk.
+attack.growth.description=Het lichaam van de gebruiker word gedwongen om te groeien. Verhoogt Sp. Atk.
 attack.double-edge.name=Double-Edge
-attack.double-edge.description=Een roekeloze, levensgevaarlijke tackle. Het doet ook vrij grote damage aan de gebruiker.
+attack.double-edge.description=Een roekeloze, levensgevaarlijke tackle. Het doet ook vrij veel damage aan de gebruiker.
 attack.worry seed.name=Worry Seed
 attack.worry seed.description=Een zaad dat de tegenstander bezorgd maakt. Het voorkomt slaap omdat het de ability slapenloosheid geeft.
 attack.synthesis.name=Synthesis
-attack.synthesis.description=Geeft HP door zonlicht. De helft van de HP van de gebruiker is genezen.
+attack.synthesis.description=Geeft HP door het opnemen van zonlicht. De helft van de HP van de gebruiker is genezen.
 attack.seed bomb.name=Seed Bomb
-attack.seed bomb.description=De gebruiker ramt een muur van harde zaadjes van boven op het doelwit.
+attack.seed bomb.description=De gebruiker gooit een bom van harde zaadjes boven op het doelwit.
 attack.toxic.name=Toxic
 attack.toxic.description=Een aanval die de tegenstander zwaar vergiftigt. De schade word elke ronde groter.
 attack.venoshock.name=Venoshock
@@ -416,7 +417,7 @@ attack.safeguard.description=De gebruiker maakt een beschermend schild dat statu
 attack.frustration.name=Frustration
 attack.frustration.description=Een aanval die sterker word als de gebruiker zijn trainer niet mag.
 attack.solarbeam.name=SolarBeam
-attack.solarbeam.description=Een move die 2 rondes duurt en in de tweede ronde de tegenstander aanvalt met in de eerste ronde opgeslagen energie.
+attack.solarbeam.description=Een aanval die de eerste ronde energie van de zon oplsaat en de twede ronde die energie op het doelwit richt.
 attack.return.name=Return
 attack.return.description=Deze aanval wordt sterker als de gebruiker de trainer aardig vind.
 attack.double team.name=Double Team
@@ -456,29 +457,29 @@ attack.petal dance.description=De gebruiker valt het doel aan door bloemblaadjes
 attack.scratch.name=Scratch
 attack.scratch.description=Harde, puntige en scherpe klauwen vallen het doel aan om schade toe te brengen.
 attack.ember.name=Ember
-attack.ember.description=The target is attacked with small flames. It may also leave the target with a burn.
+attack.ember.description=Het doelwit wordt aangevallen met kleine vuurtjes. Het kan de tegenstander achterlaten met burn.
 attack.smokescreen.name=SmokeScreen
 attack.smokescreen.description=De gebruiker laat een verduisterende wolk van rook of inkt vrij. Het vermindert de nauwkeurigheid van het doelwit.
 attack.dragon rage.name=Dragon Rage
-attack.dragon rage.description=This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage
+attack.dragon rage.description=Deze aanval raakt de tegenstander met een schok golf van pure woede. Deze aanval doet altijd 40 Damage
 attack.scary face.name=Scary Face
-attack.scary face.description=The user frightens the target with a scary face to harshly reduce its speed stat.
+attack.scary face.description=De gebriker laat de tegenstander schrikken met een eng gezicht. Verlaagt de speed stat erg veel.
 attack.fire fang.name=Fire Fang
-attack.fire fang.description=The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned.
+attack.fire fang.description=De gebruiker bijt het doelwit met vuur omringende tanden. Het kan het doelwit ook laten flinchen of burn geven.
 attack.flame burst.name=Flame Burst
-attack.flame burst.description=The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.
+attack.flame burst.description=De gebruiker valt aan met een uitbarstende vlam. De uitbarstende vlam doet ook damage tegen de Pokémon naast het doelwit.
 attack.slash.name=Slash
-attack.slash.description=The target is attacked with a slash of claws or blades. Critical hits land more easily.
+attack.slash.description=Het doelwit wordt aangevallen met een met snijende klauwen of met messen. Critical hits landen simpeler.
 attack.flamethrower.name=Flamethrower
-attack.flamethrower.description=The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+attack.flamethrower.description=Het doelwit wordt verschroeit met een intense explosie van vuur. Het kan de tegenstander achterlaten met burn.
 attack.fire spin.name=Fire Spin
-attack.fire spin.description=The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+attack.fire spin.description=Het doelwit wordt gevangen genomen in een vortex van vuur dat voor vier tot vijf beurten duurt.
 attack.inferno.name=Inferno
-attack.inferno.description=The user attacks by engulfing the target in an intense fire. It leaves the target with a burn.
+attack.inferno.description=De gebruiker valt aan door de tegenstander te omringen met een intens vuur. Het laat het doelwit achter met burn.
 attack.hone claws.name=Hone Claws
-attack.hone claws.description=The user sharpens its claws to boost its Attack stat and accuracy.
+attack.hone claws.description=De gebruiker maakt zijn klauwen scherper om zijn attack en accuracy stats te boosten.
 attack.dragon claw.name=Dragon Claw
-attack.dragon claw.description=The user slashes the target with huge, sharp claws.
+attack.dragon claw.description=De gebruiker snijd het doelwit grote, scherpe klauwen.
 attack.roar.name=Roar
 attack.roar.description=The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
 attack.hyper beam.name=Hyper Beam
@@ -2831,81 +2832,81 @@ pixelmon.genesect.description=Deze Pokemon bestond 300 miljoen jaar geleden. Tea
 *   Depending on what instane to call on.
 */
 gui.guiEvolve.huh=Huh?
-gui.guiEvolve.evolve=What? $p is evolving!
-gui.guiEvolve.done=Your $p evolved into a $n!
-gui.guiEvolve.cancel=Evolution cancelled!
+gui.guiEvolve.evolve=What? $p is aan het evolueren!
+gui.guiEvolve.done=Your $p evolueerde in een $n!
+gui.guiEvolve.cancel=Evolutie gestopt!
 
 
-gui.guiItemDrops.beatBossPixelmon1=You beat a boss $p!
-gui.guiItemDrops.beatTrainer1=You beat a trainer!
+gui.guiItemDrops.beatBossPixelmon1=Je hebt een Boss $p verslagen!
+gui.guiItemDrops.beatTrainer1=Je hebt een trainer verslagen!
 gui.guiItemDrops.ok=OK
-gui.guiItemDrops.mouse=Mouse over item
-gui.guiItemDrops.see=to see more
+gui.guiItemDrops.mouse=Ga met de muis over het item
+gui.guiItemDrops.see=om meer details te zien
 gui.guiItemDrops.details=details
 
 
-gui.fainterChoice.noFight=$p can no longer fight
-gui.fainterChoice.switch=Switch To Another Pokemon
-gui.fainterChoice.run=Run
+gui.fainterChoice.noFight=$p kan niet langer vechten
+gui.fainterChoice.switch=Overschakelen naar een andere Pokémon
+gui.fainterChoice.run=Ren
 
 
-gui.guiDoctor.healPokemon=I'm a Pokemon Doctor.  Shall I heal your pokemon?
+gui.guiDoctor.healPokemon=Ik ben een Pokémon dokter.  Zal ik jouw Pokémon helen?
 gui.guiDoctor.waiting=Waiting
 
 
-gui.trading.ready=Ready
-gui.trading.trade=Trade
-gui.trading.notready=Not Ready
-gui.trading.want=$d wants to trade
-gui.trading.nuf=No user found!
+gui.trading.ready=Klaar
+gui.trading.trade=Ruil
+gui.trading.notready=Niet klaar
+gui.trading.want=$d wil ruilen
+gui.trading.nuf=Geen gebruiker gevonden
 
 
 gui.pokedex.pokedex=Pokedex
-gui.pokedex.height=Height: 
-gui.pokedex.more=More...
+gui.pokedex.height=Lengte: 
+gui.pokedex.more=Meer...
 
 
-gui.pokedexoptions.done=Done.
-gui.pokedexoptions.options=Pokedex Options
+gui.pokedexoptions.done=Klaar.
+gui.pokedexoptions.options=Pokedex Opties
 
 
-gui.yesno.trade=Would you like to Trade?
-gui.yesno.yes=Yes
-gui.yesno.no=No
+gui.yesno.trade=Wil je ruilen?
+gui.yesno.yes=Ja
+gui.yesno.no=Nee
 
 
-gui.acceptdeny.accept=Accept
-gui.acceptdeny.deny=Decline
+gui.acceptdeny.accept=Accepteren
+gui.acceptdeny.deny=Afwijzen
 
 
 gui.renamePoke.Reset=Reset
 gui.renamePoke.cancel=gui.cancel
 gui.renamePoke.renamebutton=selectWorld.renameButton
-gui.renamePoke.renamePokemon=Rename Pokemon
+gui.renamePoke.renamePokemon=Hernoem Pokemon
 
 
 gui.screenpokechecker.moves=Moves
 gui.screenpokechecker.stats=Stats
-gui.screenpokechecker.rename=Rename
+gui.screenpokechecker.rename=Hernoem
 gui.screenpokechecker.lvl=Lvl:  
 gui.screenpokechecker.status=Status
 gui.screenpokechecker.fainted=*FAINTED*
-gui.screenpokechecker.texp=Total Experience
+gui.screenpokechecker.texp=Total Ervaring
 gui.screenpokechecker.levelup=Level Up
 gui.screenpokechecker.to=TO
 gui.screenpokechecker.summary=Summary
 gui.screenpokechecker.ot=OT. Trainer
 
 
-gui.screenpokechecker.happiness=Happiness
-gui.screenpokechecker.nature=Nature
-gui.screenpokechecker.growth=Growth
-gui.screenpokechecker.forget1=Are you sure you'd like
-gui.screenpokechecker.forget2=$p to forget
-gui.screenpokechecker.disable=disable
-gui.screenpokechecker.enable=enable
+gui.screenpokechecker.happiness=Blijheid
+gui.screenpokechecker.nature=Natuur
+gui.screenpokechecker.growth=Groote
+gui.screenpokechecker.forget1=Weet je zeker dat je dit
+gui.screenpokechecker.forget2=$p wil vergeten
+gui.screenpokechecker.disable=uitschakelen
+gui.screenpokechecker.enable=inschakelen
 gui.screenpokechecker.move=to $a leveling?
-gui.screenpokechecker.effects=Effects
+gui.screenpokechecker.effects=Efecten
 
 
 gui.pixelmonspawner.fireontick=Ga af op Ticks
@@ -2933,7 +2934,7 @@ gui.trainereditor.more=Meer
 gui.trainereditor.trainereditor=Trainer Bewerker
 gui.trainereditor.bosstype=Baas Type
 gui.trainereditor.aimode=AI Mode
-gui.trainereditor.encountermode=Gevecht Mode
+gui.trainereditor.encountermode=Gevecht Modus
 gui.trainereditor.name=Naam
 gui.trainereditor.model=Model
 gui.trainereditor.lvl=Lvl 
@@ -2983,7 +2984,7 @@ enum.aggro.passive=Passief
 enum.aggro.aggressive=Agressief
 enum.trainerBoss.notboss=Geen Baas
 enum.trainerBoss.uncommon=Ongewoon
-enum.trainerBoss.rare=Zedzame
+enum.trainerBoss.rare=Zeldzame
 enum.trainerBoss.legendary=Legendarische
 enum.trainerBoss.ultimate=Ultimate
 enum.trainerAI.standstill=Stilstaande
@@ -3017,7 +3018,7 @@ nbt.defense.name=Verdediging:
 nbt.speed.name=Snelheid:
 nbt.spattack.name=Sp.Aanval:
 nbt.spdefense.name=Sp.Verdediging:
-nbt.hp.name=HP:
+nbt.hp.name=HP:HP
 
 
 @Author Dayaffe
@@ -3030,11 +3031,11 @@ nbt.hp.name=HP:
 */
 tile.anvil.name=Aambeeld
 tile.pc.name=PC
-tile.mossy rock.name=Bemoste Steen
-tile.icy rock.name=Ijzige Steen
+tile.mossy rock.name=Bemoste Rots
+tile.icy rock.name=Ijzige Rots
 tile.trade machine.name=Ruil Machine
 tile.healer.name=Heler
-tile.fossil cleaner.name=Fossil Cleanertile.fossil machine.name=Fossiell Machine
+tile.fossil cleaner.name=Fossil Cleanertile.fossil machine.name=Fossiel Machine
 tile.cloning machine.name=Kloon Machine
 tile.bauxite ore.name=Bauxiet Erts
 tile.Fire Stone Ore.name=Vuur Steen Erts
@@ -3084,4 +3085,4 @@ tile.templeBrick.name=Tempel Blok
 tile.templeBlock.name=Tempel Blok
 tile.templeStairs.name=Tempel Trap
 tile.templeBrickStairs.name=Tempel Baksteen Trap
-tile.templePillar.name=Tempel PIlaar
+tile.templePillar.name=Tempel Pilaar
